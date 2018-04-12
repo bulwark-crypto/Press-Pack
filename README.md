@@ -9,6 +9,8 @@
 	Logo			Full Logo design, in all variants
 	Social Images		Images for Social Media application
 	Symbol			Bulwark Symbol only, in all variants
+	Block Explorer		Block Explorer logo in standard and reversed
+	Home Node		Home Node logo in standard and reversed
 
 
 
