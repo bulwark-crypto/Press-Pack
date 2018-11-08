@@ -5,12 +5,14 @@
 <h3>Dir Structure</h3>
 
 
-	Badge			Horizontal Badge design, in all variants
-	Logo			Full Logo design, in all variants
+	Bulwark Cryptocurrency			Full Logos & Symbol for Bulwark, in all variants
 	Social Images		Images for Social Media application
-	Symbol			Bulwark Symbol only, in all variants
 	Block Explorer		Block Explorer logo in standard and reversed
 	Home Node		Home Node logo in standard and reversed
+	Bulwark Design Framework	BDF logo in standard and reversed
+	Branding Guidelines	Tech docs
+	For Publications	Basic template images for publication use
+	Videos	General use videos
 
 
 
